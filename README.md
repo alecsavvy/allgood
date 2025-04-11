@@ -39,7 +39,7 @@ The `allgood` middleware leverages the principles of positive reinforcement and 
 To install `allgood`, use the following command:
 
 ```bash
-go get github.com/yourusername/allgood
+go get github.com/alecsavvy/allgood
 ```
 
 ## Usage
